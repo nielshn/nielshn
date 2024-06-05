@@ -1,30 +1,22 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Daniel Siahaan, an aspiring Full-Stack Developer and IT student passionate about crafting innovative and user-friendly digital experiences. Here's a bit more about me:
+I'm Daniel Siahaan, a dedicated IT student and emerging Full-Stack Developer. I specialize in creating seamless user experiences by integrating front-end and back-end technologies.
 
-### 🔭 About Me
-I am dedicated to bridging the gap between front-end and back-end development to create seamless and captivating user experiences. My technical expertise spans across various programming languages and frameworks:
-
-- **Languages:** JavaScript (Node.js), PHP, Java, Python, Dart, and Golang
-- **Front-End:** HTML, CSS, JavaScript, Flutter, and React JS
+### About Me
+- **Languages:** JavaScript (Node.js), PHP, Java, Python, Dart, Golang
+- **Front-End:** HTML, CSS, JavaScript, Flutter, React JS
 - **Back-End:** Laravel, Node.js
-- **Database Management:** SQL, Firebase
+- **Database:** SQL, Firebase
 
-### 🌱 What I'm Learning
-I'm constantly exploring new technologies and improving my skills. Currently, I'm delving deeper into advanced back-end development and cloud computing.
+### What I'm Learning
+I'm currently deepening my knowledge in advanced back-end development and cloud computing.
 
-### 👯 Collaboration
-I love collaborating on innovative projects that push the boundaries of technology. If you're working on something exciting, let's connect and see how we can collaborate to make it even better.
+### Collaboration
+I'm always open to collaborating on exciting projects. Let's innovate and shape the future of technology together.
 
-### 📫 How to Reach Me
-- **LinkedIn:** [Daniel Siahaan](https://www.linkedin.com/in/daniel-siahaan-ab03b6204/)
-- **GitHub:** [nielshn](https://github.com/nielshn)
-
-### 😄 Pronouns
-He/Him
-
-### ⚡ Fun Fact
-I'm always on the lookout for the latest trends in tech and enjoy experimenting with new programming languages and frameworks in my free time.
+### Connect with Me
+- **[LinkedIn](https://www.linkedin.com/in/daniel-siahaan-ab03b6204/)**
+- **[GitHub](https://github.com/nielshn)**
 
 ---
 
@@ -35,4 +27,4 @@ I'm always on the lookout for the latest trends in tech and enjoy experimenting 
 </a>
 </p>
 
-Let's collaborate, innovate, and shape the future together in the ever-evolving landscape of technology. Feel free to explore my repositories and get in touch!
+Feel free to explore my repositories and get in touch!
