@@ -15,8 +15,11 @@ I'm currently deepening my knowledge in advanced back-end developmen and Cloud C
 I'm always open to collaborating on exciting projects. Let's innovate and shape the future of technology together.
 
 ### Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/daniel-siahaan-ab03b6204/)**
-- **[GitHub](https://github.com/nielshn)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-siahaan-ab03b6204/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nielshn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/niel.shn11)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ---
 
