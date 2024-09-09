@@ -9,7 +9,7 @@ I'm Daniel Siahaan, a dedicated IT student and emerging Full-Stack Developer. I 
 - **Database:** SQL, Firebase, MongoDB, Supabase
 
 ### What I'm Learning
-I'm currently deepening my knowledge in advanced back-end developmen and Cloud Computing with Artificial Intelligence integration.
+I'm currently deepening my knowledge in advanced back-end development and Cloud Computing with Artificial Intelligence integration.
 
 ### Collaboration
 I'm always open to collaborating on exciting projects. Let's innovate and shape the future of technology together.
