@@ -23,7 +23,7 @@ I'm Daniel Siahaan, a dedicated IT student and emerging Full-Stack Developer. I'
 - 💬 &nbsp; Ask me about anything [here](https://github.com/nielshn/nielshn/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: I prefer Typescript to Javascript.
 - 📫 &nbsp; How to reach me: niel.shn08@gmail.com.
-- 📝 &nbsp; [View my CV](https://drive.google.com/file/d/1NZo3IHt1UXNekcrCjWE6gsl80NLUBG3h/view?usp=sharing)
+- 📝 &nbsp; [View my CV](https://drive.google.com/file/d/1rHAsjkNOFtE-fIHS8Q0sJRPSgAzRPdDn/view?usp=sharing)
 
 ---
 
